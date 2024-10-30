@@ -14,13 +14,15 @@ To explore Tableau for the first time by learning custom geocoding, multi-layer 
 Launch Vehicle History from 4 Oct 1957 to 31 Dec 2024 from [SpaceLaunchNow](https://spacelaunchnow.me/launch/).
 
 ## Tools
+- **Shift in Launch Activity**: A significant increase in global launch sites and providers since 2000, especially from the private sector.
+- **Historical Dominance**
 Tableau Prep Builder for data cleaning and custom geocoding
-Tableau for data visualisation - View [Workbook](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau for data visualisation - 
 
-## Skills
-Prep Builder: Data cleaning, multi-table joins, custom geocoding
-ChatGPT: Automated data sourcing for launch site geolocation data
-Tableau: Data visualization, multi-layer mapping, inter-locked trend analysis, and visual storytelling
+## Tools
+- **Prep Builder**: Data cleaning, multi-table joins, custom geocoding
+- **ChatGPT**: Automated data sourcing for launch site geolocation data
+- **Tableau**: Data visualization, multi-layer mapping, inter-locked trend analysis, and visual storytelling. View [Workbook](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Posted in
 Tableau Public
