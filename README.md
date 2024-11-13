@@ -24,9 +24,9 @@ Launch Vehicle History from October 4, 1957, to December 31, 2024, sourced from 
 
 
 ## Files in This Repository
-- **data/**: Contains raw and processed datasets used for analysis.
-- **notebooks/**: Jupyter notebooks detailing the data preparation and transformation steps.
-- **dashboard/**: Tableau workbook files for visualizations.
+- **space_launches_advanced_report.xlsx/**: Contains raw and processed datasets used for analysis.
+- **Bryce Launch Sites 2024.pdf/**: Data source (BryceTech) for geographical information on launch sites.
+- **LaunchVehicleAnalysis.twbx/**: Tableau workbook files for visualizations.
 
 ## Dashboard
 Click the image below to view the interactive dashboard on Tableau Public.
