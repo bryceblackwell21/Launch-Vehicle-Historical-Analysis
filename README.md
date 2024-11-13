@@ -30,6 +30,6 @@ Launch Vehicle History from October 4, 1957, to December 31, 2024, sourced from 
 
 ## Dashboard
 Click the image below to view the interactive dashboard on Tableau Public.
-[![Launch Vehicle Historical Analysis](https://public.tableau.com/static/images/La/LaunchVehicleAnalysis/Story1/1_rss.png)](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:showVizHome=no&:embed=true)
+[![Launch Vehicle Historical Analysis](https://public.tableau.com/static/images/La/LaunchVehicleAnalysis/Story1/1_rss.png)](https://public.tableau.com/app/profile/bryce.blackwell/viz/LaunchVehicleAnalysis/Story1)
 
 
