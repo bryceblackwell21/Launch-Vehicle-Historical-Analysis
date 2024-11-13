@@ -19,8 +19,9 @@ Launch Vehicle History from October 4, 1957, to December 31, 2024, sourced from 
 | Tool         | Description of Use                                                                                                   | Skills Demonstrated                     |
 |--------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | Prep Builder | Used for data cleaning and transformation, including multi-table joins and custom geocoding.                         | Data wrangling, data preparation       |
-| ChatGPT      | Assisted in sourcing and accurately geolocating launch sites, enhancing data reliability and geographic accuracy.    | Research, data validation              |
-| Tableau      | Created visualizations with multi-layer mapping and trend analysis to illustrate launch activity over time.          | Data visualization, storytelling, trend analysis |
+| Tableau      | Created visualizations with multi-layer mapping and trend analysis to illustrate launch activity over time.          | Custom geo-coding, storyboards, multi-layer mapping, intra-table calculated fields|
+| ChatGPT      | Assisted in sourcing and accurately geolocating launch sites that were not easily accessible.                        | Prompt engineering, data validation              |
+
 
 
 ## Files in This Repository
